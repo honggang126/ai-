@@ -5,3 +5,4 @@ python ai 写小说软件
 链接: https://pan.baidu.com/s/14IIL74YW8SH6gJdo8DftCg?pwd=fi1b 提取码: fi1b】
 
 软件激活码{nMtxzfYaDHA2Myn0}
+ api获取网址：https://cloud.siliconflow.cn/i/0Kxk74sG  {邀请码：0Kxk74sG}
