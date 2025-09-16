@@ -1,0 +1,6 @@
+novel_writer/
+├── main.py           # 主程序入口
+├── api_client.py     # API调用相关类
+└── ui_components.py  # UI组件定义）
+
+（交流群： QQ群：1035396790）
